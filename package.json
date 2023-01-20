@@ -1,0 +1,22 @@
+{
+  "name": "prathamesh_229089",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamshinde117/prathamesh_229089.git"
+  },
+  "author": "pratham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathamshinde117/prathamesh_229089/issues"
+  },
+  "homepage": "https://github.com/prathamshinde117/prathamesh_229089#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
